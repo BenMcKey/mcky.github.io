@@ -164,7 +164,8 @@ h6{
     
         cursor: pointer;
         padding: 32px;
-        display: inline;
+        display: flex;
+        flex-direction: column;
     
     }
 
